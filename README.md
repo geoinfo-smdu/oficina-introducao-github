@@ -10,6 +10,6 @@ O objetivo desse reposiório é de concentrar o material para a oficina introdut
 
 ## Metodologia 
 
-A ideia básica é fazer uma apresentação rápida do Git e do GitHub em um contenxto de trabalho com arquivos textos, diferenciando dos arquivos binários. Deste modo, além de demonstrar o fluxo de trabalho básico do GitHub a ideia é estimular a reflexão sobre o formato de arquivo utilizado para se trabalhar com dados abertos e repensar o trabalho em um cenário cada vez mais colaborativo e ágil.
+A ideia básica é fazer uma [apresentação](apresentacao-oficina-github.html) rápida do Git e do GitHub em um contenxto de trabalho com arquivos textos, diferenciando dos arquivos binários. Deste modo, além de demonstrar o fluxo de trabalho básico do GitHub a ideia é estimular a reflexão sobre o formato de arquivo utilizado para se trabalhar com dados abertos e repensar o trabalho em um cenário cada vez mais colaborativo e ágil.
 
 
