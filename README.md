@@ -6,7 +6,7 @@ Acreditamos que disseminar o uso de dados abertos é fundamental e entender o fu
 
 ## Objetivo
 
-O objetivo desse reposiório é de concentrar o material para a oficina introdutória sobre GitHub para GeoInfo e também servir de ambiente de experimentação para os recém-iniciados
+O objetivo desse reposiório é de concentrar o material para a oficina introdutória sobre GitHub para *GeoInfo* e também servir de ambiente de experimentação para os recém-iniciados
 
 ## Metodologia 
 
